@@ -26,8 +26,8 @@ Here are a few of my projects:
 ### Nyasuki
 I've done many bots in the past but I think this one is far more better and efficient, I even used AI.
 
-### File Compressor
-This was a project to test out how I could make a public library! You can download it using:
+### [File Compressor](https://github.com/Alleexx129](https://github.com/Alleexx129/compressfiles)
+This was a library to test out the features of PyPi libraries! You can download it using:
 
 ```sh
 pip install compressfiles
