@@ -33,7 +33,7 @@ This was a library to test out the features of PyPi libraries! You can download 
 pip install compressfiles
 ```
 
-[Here's the link to that](https://github.com/Alleexx129](https://github.com/Alleexx129/compressfiles)
+[Here's the link to that](https://github.com/Alleexx129/compressfiles)
 
 ### More of My Work on GitHub
 
