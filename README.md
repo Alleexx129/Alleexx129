@@ -26,14 +26,14 @@ Here are a few of my projects:
 ### Nyasuki
 I've done many bots in the past but I think this one is far more better and efficient, I even used AI.
 
-### File Compressor 
+### [File Compressor](https://github.com/Alleexx129/compressfiles)
 This was a library to test out the features of PyPi libraries! You can download it using:
 
 ```sh
 pip install compressfiles
 ```
 
-[Here's the link to that](https://github.com/Alleexx129/compressfiles)
+
 
 ### More of My Work on GitHub
 
