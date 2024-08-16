@@ -15,8 +15,8 @@ I'm always open to collaborating on interesting projects and contributing to the
 
 ## Tech Stack
 
-- **Languages:** Python
-- **Frameworks and Libraries:** discord.py, py-cord
+- **Languages:** Python, Js, lua
+- **Frameworks and Libraries:** discord.py, py-cord, discord.js
 - **Tools and Platforms:** GitHub, Discord
 
 ## Projects
