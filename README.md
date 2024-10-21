@@ -7,12 +7,6 @@ I'm a passionate developer specializing in Python, but I also do Javascript, Jav
 ### Discord Bot Development
 I create Python and Javascript discord bots from scratch, with designing
 
-### Automation and Scripting
-I love automatizating tasks, since we are all lazy!
-
-### Collaboration and Open Source
-I'm always open to collaborating on interesting projects and contributing to the open-source community.
-
 ## Tech Stack
 
 - **Languages:** Python, Js, lua
@@ -42,7 +36,7 @@ It is in both Javascript and Python
 
 ### More of My Work on GitHub
 
-You can find more of my work on my [GitHub profile](https://github.com/Alleexx129).
+You can find more of my work in my repos.
 
 ### Get in Touch
 
