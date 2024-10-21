@@ -1,14 +1,14 @@
 # Hello! I'm Lex
 
-I'm a passionate developer specializing in creating innovative and efficient Discord bots. With a knack for solving problems and automating tasks, I enjoy turning ideas into reality through code.
+I'm a passionate developer specializing in Python, but I also do Javascript, Java and *a bit* of HTML.
 
 ## What I Do
 
 ### Discord Bot Development
-I design, build, and maintain Discord bots that enhance user experience and community engagement. My bots range from simple moderation tools to complex, feature-rich applications.
+I create Python and Javascript discord bots from scratch, with designing
 
 ### Automation and Scripting
-I love automating repetitive tasks and creating scripts that save time and effort.
+I love automatizating tasks, since we are all lazy!
 
 ### Collaboration and Open Source
 I'm always open to collaborating on interesting projects and contributing to the open-source community.
@@ -16,15 +16,18 @@ I'm always open to collaborating on interesting projects and contributing to the
 ## Tech Stack
 
 - **Languages:** Python, Js, lua
-- **Frameworks and Libraries:** discord.py, py-cord, discord.js
-- **Tools and Platforms:** GitHub, Discord
+- **Main Libraries:** py-cord, discord.js
+- **Second libraries (less experienced):** OpenCV, yt_dlp, discord.py
 
 ## Projects
 
 Here are a few of my projects:
 
 ### Nyasuki
-I've done many bots in the past but I think this one is far more better and efficient, I even used AI.
+I've done many bots in the past but I think this one is far more better and efficient, I even used AI. Currently remaking it into full AI
+
+### Nyanko
+This is the newest discord bot I am making (as of 2024-10-20), it includes minigames
 
 ### [File Compressor](https://github.com/Alleexx129/compressfiles)
 This was a library to test out the features of PyPi libraries! You can download it using:
@@ -33,19 +36,15 @@ This was a library to test out the features of PyPi libraries! You can download 
 pip install compressfiles
 ```
 
-
+### Anime girl API
+This is a 100% manual library to get anime girl images, it includes currently ~500 images more info at https://www.catgirlnexus.xyz/api/documentation/
+It is in both Javascript and Python
 
 ### More of My Work on GitHub
 
 You can find more of my work on my [GitHub profile](https://github.com/Alleexx129).
 
-### Let's Collaborate!
-
-I'm always looking for new opportunities to learn and grow. If you have an exciting project or idea and think we could make something great together, feel free to reach out! Whether it's developing a new bot, improving an existing one, or exploring new technologies, I'm excited to collaborate and create something amazing.
-
 ### Get in Touch
 
 - **Email:** [alleexx129@gmail.com](mailto:alleexx129@gmail.com)
 - **Discord:** _.lex0
-
-Looking forward to connecting with you!
