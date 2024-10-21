@@ -1,4 +1,4 @@
-# Hello! I'm Lex
+# Hello! I'm Allex
 
 I'm a passionate developer specializing in Python, but I also do Javascript, Java and *a bit* of HTML.
 
