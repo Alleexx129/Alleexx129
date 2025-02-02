@@ -1,15 +1,10 @@
 # Hello! I'm Allex
 
-I'm a passionate developer specializing in Python, but I also do Javascript, Java and *a bit* of HTML.
-
-## What I Do
-
-### Discord Bot Development
-I create Python and Javascript discord bots from scratch, with designing
+I'm a passionate developer specializing in Python, but I also do Javascript, Java, HTML and a bit of C++.
 
 ## Tech Stack
 
-- **Languages:** Python, Js, lua
+- **Languages:** Python, Js, lua, HTML, C++
 - **Main Libraries:** py-cord, discord.js
 - **Second libraries (less experienced):** OpenCV, yt_dlp, discord.py
 
