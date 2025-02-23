@@ -4,9 +4,9 @@ I'm a passionate developer specializing in Python, but I also do Javascript, Jav
 
 ## Tech Stack
 
-- **Languages:** Python, Js, lua, HTML, C++
+- **Languages:** Python, Js, lua(u), HTML, C++
 - **Main Libraries:** py-cord, discord.js
-- **Second libraries (less experienced):** OpenCV, yt_dlp, discord.py
+- **Second libraries (less experienced):** OpenCV, yt_dlp, discord.py, tensorflow, numpy
 
 ## Projects
 
@@ -26,7 +26,7 @@ pip install compressfiles
 ```
 
 ### Anime girl API
-This is a 100% manual library to get anime girl images, it includes currently ~500 images more info at https://www.catgirlnexus.xyz/api/documentation/
+This is a 100% manual library to get anime girl images, it includes currently ~500 images more info at https://alleexx129.github.io/Nyanko/documentation
 It is in both Javascript and Python
 
 ### More of My Work on GitHub
