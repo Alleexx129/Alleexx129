@@ -1,10 +1,10 @@
 # Hello! I'm Allex
 
-I'm a passionate developer specializing in Python, but I also do Javascript, Java, HTML and a bit of C++.
+I'm a passionate developer specializing in Python and C#, but I also do Javascript, Java, HTML and a bit of C++.
 
 ## Tech Stack
 
-- **Languages:** Python, Js, lua(u), HTML, C++
+- **Languages:** Python, Js, HTML, C++, C#
 - **Main Libraries:** py-cord, discord.js
 - **Second libraries (less experienced):** OpenCV, yt_dlp, discord.py, tensorflow, numpy
 
