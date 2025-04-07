@@ -26,7 +26,7 @@ pip install compressfiles
 ```
 
 ### Anime girl API
-This is a 100% manual library to get anime girl images, it includes currently ~500 images more info at https://alleexx129.github.io/Nyanko/documentation
+This is a 100% manual library to get anime girl images, it includes currently ~500 images more info at (https://alleexx129.github.io/Nyanko/api/documentation)
 It is in both Javascript and Python
 
 ### More of My Work on GitHub
