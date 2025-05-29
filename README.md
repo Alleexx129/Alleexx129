@@ -21,7 +21,7 @@ This is a program for downloading music using itune and youtube, it was original
 ### Nyanko
 This is a discord bot made with py-cord, it's a indie game similar to Dank Memer
 
-### [File Compressor](https://github.com/Alleexx129/compressfiles) (Depreciated)
+### [File Compressor](https://github.com/Alleexx129/compressfiles) (deprecated)
 This is a library to test out the features of PyPi libraries! You can download it using:
 
 ```sh
